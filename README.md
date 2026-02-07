@@ -1,2 +1,2 @@
 # equity-research-ai-semiconductor
-/company-reports /industry-reports /valuation-models /data
+Equity research reports & valuation models for AI and semiconductor companies (NVDA, TSM, ASML, AVGO). Includes DCF, comps, KPI dashboards.
